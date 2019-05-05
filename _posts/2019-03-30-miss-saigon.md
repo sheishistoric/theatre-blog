@@ -4,4 +4,6 @@ title: "Miss Saigon"
 categories: Broadway Philadelphia, Kimmel Center, Academy of Music
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Don't see Miss Saigon](http://www.dontbuymiss-saigon.com/). Really regret seeing this, as the book itself is as horrible as everyone told me. (Side note, but how did my high school do this show in 2018???)
+
+Score is pretty though, and the voices carried all the way to my seat in the very top balcony.

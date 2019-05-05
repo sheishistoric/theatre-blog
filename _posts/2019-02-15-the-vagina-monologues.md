@@ -3,5 +3,7 @@ layout: post
 title: "The Vagina Monologues"
 categories: Penn V-Day Movement
 ---
+(written months later)
+I feel like the build-up for this show is much more than the show itself. It's hard for me to figure out where *The Vagina Monologues* fits into my understanding of empowerment and the movement to prevent violence against women in this time, with the show feeling very dated and newer references to transwomen or international perspectives feel very shoe-horned in.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vedika Gopal kills it in "The Moaner" though.

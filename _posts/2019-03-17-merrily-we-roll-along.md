@@ -3,5 +3,12 @@ layout: post
 title: "Merrily We Roll Along"
 categories: Roundabout Theatre Company, Fiasco Theater, Off-Broadway, Laura Pels Theatre
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+(written months later)
+- I didn't love the set at first, but after hearing the cast explain it I did appreciate it.
+- I wish the cast was a little bit bigger, so that we didn't people doubling roles.
+- Mostly came to see this so I could see "Opening Doors", which is one of my favorite songs ever. I loved how all of this was staged.
+- I also liked how cast members sat around the stage, watching over Frank as his life moved on. It reminded me a lot of *Hamilton*'s staging.
+- Still feels rushed (streamlined is the word critics used) - is that the show or the actors?
+- My other favorite song in this show, "Franklin Shepherd Inc.", was performed beautifully by Manu Narayan.
+- The added scene with Beth's parents felt very off - not sure why they chose to include it?
+- Didn't get the joke about Evelyn until much much later.  

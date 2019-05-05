@@ -3,5 +3,8 @@ layout: post
 title: "August Wilson's Gem of the Ocean"
 categories: Arden Theatre, F. Otto Haas Stage, August Wilson, Theatre in the X
 ---
+(written months later)
+A M A Z I N G.
+Just all of it. The set is incredible, the actors had me captivated, the spiritual awakening to the City of Bones truly takes your breath away. I went in knowing nothing and had to take a moment before leaving, just to regain composure. I want to read this script and see how much of this dependent on the cast and crew and how much of this is just Wilson being Wilson.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There's also a similar moment in this show that reminds me so much of a scene from [Black Odyssey](..posts/2019-01-08-black-odyssey) that makes me wonder if it is inspired/related?

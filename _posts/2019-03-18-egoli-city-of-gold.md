@@ -4,4 +4,6 @@ title: "Egoli: City of Gold"
 categories: EgoPo Classic Theater, Theatre in the X, Latvian Society
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+YES for the set! The recreation of the mineshaft as the audience walked up to the theatre was A+.
+
+Again, shout out to Carlo Campbell - Walter DeShields was equally as captivating as Hamilton.

@@ -3,5 +3,5 @@ layout: post
 title: "Cana of Galilee"
 categories: Hella Fresh Theater, Philly Theatre Week
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+(written months later)
+Want to watch an entire show of uptalk? This play tests you for over an hour to see how much you can take. Its simplicity and ability to reveal story without explicitly saying anything makes the show feel like you're watching an intimate conversation.  

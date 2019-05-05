@@ -3,5 +3,5 @@ layout: post
 title: "The Colored Museum"
 categories: Theatre in the X, Site-Specific
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+(written months later)
+I mostly wanted to see this for its site specific performance at the African American Museum of Philadelphia. The 11 exhibits (sketches) of the play, as spaced throughout the museum, brought Wolfe's goal in naming this *museum* to light.  Favorite exhibits include *Git On Board*, *The Gospel According to Miss Roj*, and *The Last Mama-on-the-Couch Play*.

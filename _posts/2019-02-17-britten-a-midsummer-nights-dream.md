@@ -3,5 +3,7 @@ layout: post
 title: "Britten's A Midsummer Night's Dream"
 categories: Opera, Opera Philadelphia, Academy of Music
 ---
+(written months later)
+I feel about opera the way most people feel about musicals - why does this need to be sung? While Britton's score is beautiful and all the performers have great voices (shout out to the boys playing Tytania's attendants), it didn't add anything to the story for me.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I loved the set here - the use of beds to recreate the forest were amazing. Shout out to Milton Yerolemou as Puck, who leaps around the stage.

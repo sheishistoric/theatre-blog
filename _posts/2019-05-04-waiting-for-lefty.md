@@ -4,4 +4,4 @@ title: "Waiting for Lefty"
 categories: Pilot Projects, Ignoble Artists, Clifford Odets
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Funny how you can watch a show and, with a few minor tweaks, it could still fit pretty well today. The performers made really great use of such a small space - the show is intimate by nature, and making the audience a part of the union meeting made total sense. Can't wait for another Ignoble Artists production - the audience interaction and post-show discussion were well done. 

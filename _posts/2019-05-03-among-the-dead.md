@@ -4,4 +4,8 @@ title: "Among the Dead"
 categories: Hansol Jung, Theatre Exile
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I only learned about the comfort women of WWII earlier this year, which I think was helpful in preparing for what this story was. 
+
+The inclusion of Jesus in this story was something I thought would be annoying and tiresome, but I think it was fitting. (Cathy Simpson is hilarious when needed, and intense at the most important monologue.)
+
+I wish the student riots took more of a place in the story, instead of just background noise.

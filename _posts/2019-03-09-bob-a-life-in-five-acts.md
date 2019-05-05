@@ -3,5 +3,7 @@ layout: post
 title: "BOB: A Life in Five Acts"
 categories: Azuka Theatre, Proscenium Theatre, The Drake
 ---
+(written months later)
+I'm not usually a fan of comedies, but this one was an enjoyable evening! Bob's wild life - in five acts, mind you - doesn't really do anything or satirize anything. It's just a story of an Everyman taken a bit too far. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This cast's comedic timing is fantastic - I would see them again in anything.

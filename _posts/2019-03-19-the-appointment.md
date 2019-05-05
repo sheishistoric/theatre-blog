@@ -4,4 +4,6 @@ title: "The Appointment"
 categories: Lightning Rod Special, High Pressure Fire Service, Fringe Arts
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My sides hurt from laughing too much - which, for a show about abortion and everything surrounding the procedure, is hard to process. The musical numbers are fantastic and funny - the cold, sterile moments in the abortion clinic are sobering. 
+
+The weird Thanksgiving dinner scene made no sense to me, though.
