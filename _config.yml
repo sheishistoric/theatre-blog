@@ -2,7 +2,6 @@ title: Gods of the theatre, smile on us.
 author: Emily Esten
 description: > # this means to ignore newlines until "show_exerpts:"
   I see a lot of theatre and sometimes I write about it. I try to see the good in everything.
-permalink: /:year/:month/:day/:title
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -46,3 +45,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title
