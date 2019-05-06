@@ -19,7 +19,7 @@ layout: default
     <br>
     {{ content }}
     <br>
-    Tagged with {{ page.categories | join: ', ' }}
+    {{page.categories | capitalize | join: ', '}}
   </div>
 
   {%- if site.disqus.shortname -%}
