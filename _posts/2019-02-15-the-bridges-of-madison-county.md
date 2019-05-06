@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "The Bridges of Madison County"
-categories: Philly Theatre Week, Philadelphia Theatre Company, Suzanne Roberts Theatre, Philly Theatre Week
+categories:
+- Philly Theatre Week
+- Philadelphia Theatre Company
+- Suzanne Roberts Theatre
+- Philly Theatre Week
 ---
 (written months later)
 Isn't it amazing that every Jason Robert Brown song sounds the same and yet it's still very good?

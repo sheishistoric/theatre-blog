@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Merrily We Roll Along"
-categories: Roundabout Theatre Company, Fiasco Theater, Off-Broadway, Laura Pels Theatre
+categories:
+- Roundabout Theatre Company
+- Fiasco Theater
+- Off-Broadway
+- Laura Pels Theatre
+- Stephen Sondheim
 ---
 (written months later)
 - I didn't love the set at first, but after hearing the cast explain it I did appreciate it.
@@ -12,3 +17,4 @@ categories: Roundabout Theatre Company, Fiasco Theater, Off-Broadway, Laura Pels
 - My other favorite song in this show, "Franklin Shepherd Inc.", was performed beautifully by Manu Narayan.
 - The added scene with Beth's parents felt very off - not sure why they chose to include it?
 - Didn't get the joke about Evelyn until much much later.  
+- This is one of my favorite shows ever (and maybe my favorite Sondheim), so I'm really glad I've finally seen a performance of the show no one can get quite right.

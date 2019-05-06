@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "How To Catch Creation"
-categories: Philadelphia Theatre Company, Suzanne Roberts Theatre
+categories:
+- Philadelphia Theatre Company
+- Suzanne Roberts Theatre
 ---
-(written months later
-  )
+(written months later)
 I usually recommend reading the notes in the playbill before the show, but I'm going to suggest you don't here. The writer's note doesn't spoil anything per se, but if you read it at the beginning and then think about it as the show's direction becomes clear, it does. And I wonder if the show would've felt more - something - if I hadn't.
 
 The couple in front of me left at intermission. "The show has no direction," said one man. "No direction," said the other. "You want to head out?" said the first. I, too, was lost at intermission. The three stories - Stokes and Riley, a young couple in their 20s figuring out their career passions; Griffin and Tammy, friends in their 40s figuring out their relationships; Natalie and Gina, somewhere in the 1960s exploring their relationship to each other - didn't seem to connect organically. Griffin felt like the heart of the show, and the other scenes tacked on around him, to make it work. I was interested, invested, but unsure. Why were the scenes of the two romantic couples juxtaposed? Why are we getting references to Tammy's history? What do we get from these

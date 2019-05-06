@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Boycott Esther"
-categories: The Drake, Azuka Theatre
+categories:
+- The Drake
+- Azuka Theatre
+- Proscenium
 ---
 
 *me, reading the playwright's bio before the show: bold of her to mention her relationship to The Weinstein Company

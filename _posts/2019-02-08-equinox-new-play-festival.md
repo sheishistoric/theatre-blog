@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Equinox New Student Play Festival"
-categories: University of the Arts, Philly Theatre Week
+categories:
+- University of the Arts
+- Philly Theatre Week
 ---
 (written months later)
 Student plays are so weird, I love them.
