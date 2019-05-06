@@ -16,9 +16,10 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    Tagged with {{ page.categories | join: ', ' }}
     <br>
     {{ content }}
+    <br>
+    Tagged with {{ page.categories | join: ', ' }}
   </div>
 
   {%- if site.disqus.shortname -%}
