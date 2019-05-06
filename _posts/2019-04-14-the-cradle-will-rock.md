@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "The Cradle Will Rock"
-categories:
-- Marc Blitzstein
-- Classic Stage Company
-- Lynn F. Angelson Theater
+categories: [Marc Blitzstein, Classic Stage Company, Lynn F. Angelson Theater]
 ---
 
 In the olden days, nobody was subtle. Blitzstein sure wasn't. The vignettes are well done - Rema Webb's "Joe Worker" was the best, truly brining the house down. Tony Yazbeck is great, though I wish he didn't have to play two roles (I was confused about which character he was supposed to be.)

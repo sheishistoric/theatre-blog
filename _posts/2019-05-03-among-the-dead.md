@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Among the Dead"
-categories:
-- Hansol Jung
-- Theatre Exile
+categories: [Hansol Jung, Theatre Exile]
 ---
 
 I only learned about the comfort women of WWII earlier this year, which I think was helpful in preparing for what this story was.

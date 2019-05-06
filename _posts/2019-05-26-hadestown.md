@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Hadestown"
-categories:
-- Broadway
+categories: [Broadway]
 ---
 
 coming soon

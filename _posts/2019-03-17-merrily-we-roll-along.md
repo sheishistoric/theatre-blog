@@ -1,12 +1,7 @@
 ---
 layout: post
 title: "Merrily We Roll Along"
-categories:
-- Roundabout Theatre Company
-- Fiasco Theater
-- Off-Broadway
-- Laura Pels Theatre
-- Stephen Sondheim
+categories: [Roundabout Theatre Company, Fiasco Theater, Off-Broadway, Laura Pels Theatre, Stephen Sondheim]
 ---
 (written months later)
 - I didn't love the set at first, but after hearing the cast explain it I did appreciate it.

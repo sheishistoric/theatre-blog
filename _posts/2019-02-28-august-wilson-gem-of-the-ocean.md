@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "August Wilson's Gem of the Ocean"
-categories:
-- Arden Theatre
-- F. Otto Haas Stage
-- August Wilson
-- Theatre in the X
+categories: [Arden Theatre, F. Otto Haas Stage, August Wilson, Theatre in the X]
 ---
 (written months later)
 A M A Z I N G.
