@@ -5,6 +5,7 @@ categories: The Drake, Azuka Theatre, Proscenium Theatre
 ---
 
 *me, reading the playwright's bio before the show: bold of her to mention her relationship to The Weinstein Company*
+&nbsp;
 *me, in the middle of* Boycott Esther *: never mind, makes sense*
 
 Who among us has not followed the #MeToo movement within entertainment industries since its viral popularity in October 2017? In *Boycott Esther*, Esther Lehman (Alison Ormsby) 23-year-old social media influencer finally gets her big break with the possibility of a TV show with the company of media mogul Barry Bloom (Steven Richard). She works with Mary (Alexandra Espinoza) a producer (writer? editor? unclear? I don't know media) at Bloom's company to perfect her pilot script. She talks regularly to her parents, a friend, an agent (all done through video or audio), and posting regularly to her Instagram and Twitter accounts along the way. But when Bloom faces a similar scandal to Weinstein and Cosby - as he explicitly references  - Esther's career is tied too closely to Bloom's orbit. Esther, who presents herself as feminist and empowered and (insert some other word than woke), attempts to keep both that identity and the one tied to Bloom's horrible behavior in order to move forward with her career. How she deals with it  - from her relationship to Bloom and to Mary, as well as her Internet followers and family - take up the latter half of the show.
