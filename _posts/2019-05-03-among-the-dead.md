@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Among the Dead"
-categories: [Hansol Jung, Theatre Exile]
+tags: Hansol Jung, Theatre Exile
 ---
 Among the Dead is a dark comedy about a family broken apart by betrayed promises, and finding each other again through SPAM, journals, and Jesus. Mostly Jesus.
 
@@ -17,7 +17,7 @@ The inclusion of Jesus in this story was something I thought would be annoying a
 
 This is a story about women, so I'm surprised in myself for feeling slightly frustrated by the lack of development for Luke. His story seems unlike others of the period - becoming a career man, essentially abandoning his daughter - but there are glimpses of another person he could have been. Another life. We watch him make wrong choice after wrong choice within the show, and feel slighted in that we only see him make one right one. Or maybe two, depending on how you look at it. And maybe I'm asking for the wrong question - maybe I'm looking to redeem Luke in a way that he cannot be by own standards, after doing something so incredibly horrific early on that I found in-character and yet ruins the character. We never see take ownership of his actions other than to feel guilt (if even that? if even about the wrong things?) And for him to continually inflict this trauma onto Ana and Number Four makes the (spoiler) mother-daughter reunion of the finale an even sadder one.
 
-Having seen Miss Saigon in March, the comparisons immediately jumped out of me. This show probably won't get as much of an audience, which is a shame. This, sans orchestrations, is clearly the better show, even though they are about two different wars and cultures. They are both about women's bodily autonomy (or lack thereof), about generational trauma from war, and family. 
+Having seen Miss Saigon in March, the comparisons immediately jumped out of me. This show probably won't get as much of an audience, which is a shame. This, sans orchestrations, is clearly the better show, even though they are about two different wars and cultures. They are both about women's bodily autonomy (or lack thereof), about generational trauma from war, and family.
 
 ## Other notes:
 * I wish the student riots took more of a place in the story, instead of just background noise. While there was some information included in the program about Korea's history and the timing of the riots, I want to know more of why Jung chose to specify that setting. Am I missing something here of the connections of the protests with the war itself?

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Catch Creation"
-categories: [Philadelphia Theatre Company, Suzanne Roberts Theatre]
+tags: Philadelphia Theatre Company, Suzanne Roberts Theatre
 ---
 (written months later)
 I usually recommend reading the notes in the playbill before the show, but I'm going to suggest you don't here. The writer's note doesn't spoil anything per se, but if you read it at the beginning and then think about it as the show's direction becomes clear, it does. And I wonder if the show would've felt more - something - if I hadn't.

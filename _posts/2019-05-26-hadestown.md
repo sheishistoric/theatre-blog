@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Hadestown"
-categories: [Broadway, Walter Kerr Theatre]
+tags: Broadway, Walter Kerr Theatre
 ---
 > Who stands in the garden with nothing to lose, singing:
 > La la la la la la la…
 
-This is the third Greek-myth-inspired performance I've seen this year, and by far the most original and beautiful. Come see what the world could be - and what it is - in more ways than one. 
+This is the third Greek-myth-inspired performance I've seen this year, and by far the most original and beautiful. Come see what the world could be - and what it is - in more ways than one.
 
 Anaïs Mitchell's folk opera weaves together two related Greek myths into one, this time adapted for a Depression-era, New Orleans-inspired jazz period. Orpheus (Reeve Carney) and Eurydice (Eve Noblezada) are our leads: the former is a musician working on his song, the latter a young woman who has experienced the harshness of the world. They quickly fall hopelessly for each other, but love fares poorly in the cold, hungry world without summer. In the background, Hades (Patrick Page) and Persephone (Amber Gray), leaders of the underworld, work through marital strife and the decline of their relationship. For those who know these characters and myths in their Greek origins, they continue to be stories of love, passion, and human spirit, with a newfound backdrop of survival. Hermes (Andre De Shields), god of boundaries and conductor of souls to the afterlife, narrates us
 
