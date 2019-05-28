@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Waiting for Lefty"
-tags: Pilot Projects, Ignoble Artists, Clifford Odets
+tags:
+- Pilot Projects
+- Ignoble Artists
+- Clifford Odets
 ---
 
 >We're reds if because we wanna strike, then we take over their salute, too!

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Hadestown"
-tags: Broadway, Walter Kerr Theatre
+tags:
+- Broadway
+- Walter Kerr Theatre
 ---
 > Who stands in the garden with nothing to lose, singing:
 > La la la la la la la…
