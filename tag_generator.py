@@ -10,6 +10,7 @@ No plugins required.
 
 import glob
 import os
+import yaml
 
 post_dir = '_posts/'
 tag_dir = 'tag/'
@@ -17,36 +18,20 @@ tag_dir = 'tag/'
 filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
+
+# Modifications
+yaml_lines = []
+
 for filename in filenames:
-    f = open(filename, 'r', encoding='utf8')
-    crawl = False
+    f = open(filename, 'r', encoding="utf8")
     for line in f:
-        if crawl:
-            current_tags = line.strip().split()
-            if current_tags[0] == 'tags:':
-                total_tags.extend(current_tags[1:])
-                crawl = False
-                break
-        if line.strip() == '---':
-            if not crawl:
-                crawl = True
-            else:
-                crawl = False
-                break
-    f.close()
-total_tags = set(total_tags)
-
-old_tags = glob.glob(tag_dir + '*.md')
-for tag in old_tags:
-    os.remove(tag)
-
-if not os.path.exists(tag_dir):
-    os.makedirs(tag_dir)
-
-for tag in total_tags:
-    tag_filename = tag_dir + tag + '.md'
-    f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
-    f.write(write_str)
-    f.close()
-print("Tags generated, count", total_tags.__len__())
+       if line.strip() == '---':
+        break
+    for line in f:
+       if line.strip() == '---':
+           break
+       else:
+          yaml_lines.append(line)
+yaml_string = "".join(yaml_lines)
+yaml_list = yaml.load(yaml_string)
+print(yaml_list)
