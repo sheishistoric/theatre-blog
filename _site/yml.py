@@ -50,7 +50,8 @@ if __name__ == '__main__':
     for tag in total_tags:
         tag_filename = tag_dir + tag + '.md'
         tag_page = open(tag_filename, 'a')
-        write_str = '---\nlayout: tagpage\ntitle: \"Tagged: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+        tag2 = tag.replace('+',' ')
+        write_str = '---\nlayout: tagpage\ntitle: \"Tagged: ' + tag2 + '\"\ntag: ' + tag2 + '\nrobots: noindex\n---\n'
         tag_page.write(write_str)
         tag_page.close()
     print("Tags generated, count", total_tags.__len__())

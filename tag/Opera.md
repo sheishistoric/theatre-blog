@@ -1,4 +1,5 @@
 ---
+exclude: true
 layout: tagpage
 title: "Tagged: Opera"
 tag: Opera

@@ -1,6 +1,7 @@
 ---
+exclude: true
 layout: tagpage
-title: "Tagged: Arden+Theatre"
-tag: Arden+Theatre
+title: "Tagged: Arden Theatre"
+tag: Arden Theatre
 robots: noindex
 ---

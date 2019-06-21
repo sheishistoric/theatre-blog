@@ -1,6 +1,7 @@
 ---
+exclude: true
 layout: tagpage
-title: "Tagged: Walnut+Theatre"
-tag: Walnut+Theatre
+title: "Tagged: Walnut Theatre"
+tag: Walnut Theatre
 robots: noindex
 ---

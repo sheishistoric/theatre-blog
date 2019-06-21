@@ -1,6 +1,7 @@
 ---
+exclude: true
 layout: tagpage
-title: "Tagged: Kimmel+Center"
-tag: Kimmel+Center
+title: "Tagged: Kimmel Center"
+tag: Kimmel Center
 robots: noindex
 ---

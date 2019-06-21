@@ -1,6 +1,7 @@
 ---
+exclude: true
 layout: tagpage
-title: "Tagged: Ignoble+Artists"
-tag: Ignoble+Artists
+title: "Tagged: Ignoble Artists"
+tag: Ignoble Artists
 robots: noindex
 ---

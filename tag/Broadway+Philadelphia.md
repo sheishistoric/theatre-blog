@@ -1,6 +1,7 @@
 ---
+exclude: true
 layout: tagpage
-title: "Tagged: Broadway+Philadelphia"
-tag: Broadway+Philadelphia
+title: "Tagged: Broadway Philadelphia"
+tag: Broadway Philadelphia
 robots: noindex
 ---

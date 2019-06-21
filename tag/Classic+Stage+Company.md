@@ -1,6 +1,7 @@
 ---
+exclude: true
 layout: tagpage
-title: "Tagged: Classic+Stage+Company"
-tag: Classic+Stage+Company
+title: "Tagged: Classic Stage Company"
+tag: Classic Stage Company
 robots: noindex
 ---

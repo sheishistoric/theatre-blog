@@ -1,6 +1,7 @@
 ---
+exclude: true
 layout: tagpage
-title: "Tagged: Pilot+Projects"
-tag: Pilot+Projects
+title: "Tagged: Pilot Projects"
+tag: Pilot Projects
 robots: noindex
 ---
