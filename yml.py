@@ -35,6 +35,7 @@ if __name__ == '__main__':
         post_yaml = extract_yaml(filename)
         if post_yaml is not None:
             tags = post_yaml.get('tags', [])
+            tags = [indiv_tag.replace(' ','+') for indiv_tag in tags]
             total_tags.extend(tags)
     total_tags = set(total_tags)
     print(total_tags)
