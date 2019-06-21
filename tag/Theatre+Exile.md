@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Theatre+Exile"
 tag: Theatre+Exile
 robots: noindex

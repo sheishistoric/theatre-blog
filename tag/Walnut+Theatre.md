@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Walnut+Theatre"
 tag: Walnut+Theatre
 robots: noindex

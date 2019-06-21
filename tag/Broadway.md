@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Broadway"
 tag: Broadway
 robots: noindex

@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Irish+Heritage+Theatre"
 tag: Irish+Heritage+Theatre
 robots: noindex

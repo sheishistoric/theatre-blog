@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Merriam+Theatre"
 tag: Merriam+Theatre
 robots: noindex

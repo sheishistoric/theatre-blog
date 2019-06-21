@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Proscenium+Theater"
 tag: Proscenium+Theater
 robots: noindex

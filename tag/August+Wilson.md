@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: August+Wilson"
 tag: August+Wilson
 robots: noindex

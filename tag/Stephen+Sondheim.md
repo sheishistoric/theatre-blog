@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Stephen+Sondheim"
 tag: Stephen+Sondheim
 robots: noindex

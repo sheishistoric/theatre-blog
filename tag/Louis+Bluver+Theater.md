@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Louis+Bluver+Theater"
 tag: Louis+Bluver+Theater
 robots: noindex

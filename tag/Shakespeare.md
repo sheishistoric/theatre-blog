@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Shakespeare"
 tag: Shakespeare
 robots: noindex

@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Laura+Pels+Theatre"
 tag: Laura+Pels+Theatre
 robots: noindex

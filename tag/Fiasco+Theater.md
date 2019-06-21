@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Fiasco+Theater"
 tag: Fiasco+Theater
 robots: noindex

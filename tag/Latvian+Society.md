@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Latvian+Society"
 tag: Latvian+Society
 robots: noindex

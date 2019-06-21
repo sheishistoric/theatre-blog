@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: 1812+Productions"
 tag: 1812+Productions
 robots: noindex

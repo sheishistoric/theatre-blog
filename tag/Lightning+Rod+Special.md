@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Lightning+Rod+Special"
 tag: Lightning+Rod+Special
 robots: noindex

@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Theatre+in+the+X"
 tag: Theatre+in+the+X
 robots: noindex

@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Pilot+Projects"
 tag: Pilot+Projects
 robots: noindex

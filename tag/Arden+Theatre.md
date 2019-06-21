@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Arden+Theatre"
 tag: Arden+Theatre
 robots: noindex

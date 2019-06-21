@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: Clifford+Odets"
 tag: Clifford+Odets
 robots: noindex

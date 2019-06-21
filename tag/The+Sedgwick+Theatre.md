@@ -1,5 +1,5 @@
 ---
-layout: tag_index
+layout: tagpage
 title: "Tagged: The+Sedgwick+Theatre"
 tag: The+Sedgwick+Theatre
 robots: noindex
