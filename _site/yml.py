@@ -51,7 +51,7 @@ if __name__ == '__main__':
         tag_filename = tag_dir + tag + '.md'
         tag_page = open(tag_filename, 'a')
         tag2 = tag.replace('+',' ')
-        write_str = '---\nlayout: tagpage\ntitle: \"Tagged: ' + tag2 + '\"\ntag: ' + tag2 + '\nrobots: noindex\n---\n'
+        write_str = '---\nexclude: true\nlayout: tagpage\ntitle: \"Tagged: ' + tag2 + '\"\ntag: ' + tag2 + '\nrobots: noindex\n---\n'
         tag_page.write(write_str)
         tag_page.close()
     print("Tags generated, count", total_tags.__len__())

@@ -1,4 +1,5 @@
 ---
+exclude: false
 layout: post
 title: "Cana of Galilee"
 tags:

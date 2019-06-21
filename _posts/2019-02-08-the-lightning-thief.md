@@ -1,4 +1,5 @@
 ---
+exclude: false
 layout: post
 title: "The Lightning Thief: A Percy Jackson Musical"
 tags:

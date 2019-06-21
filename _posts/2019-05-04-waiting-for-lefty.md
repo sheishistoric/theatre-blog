@@ -1,4 +1,5 @@
 ---
+exclude: false
 layout: post
 title: "Waiting for Lefty"
 tags:

@@ -1,4 +1,5 @@
 ---
+exclude: false
 layout: post
 title: "Equinox New Student Play Festival"
 tags:

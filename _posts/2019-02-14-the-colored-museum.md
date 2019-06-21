@@ -1,4 +1,5 @@
 ---
+exclude: false
 layout: post
 title: "The Colored Museum"
 tags:
