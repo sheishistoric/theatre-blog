@@ -1,4 +1,5 @@
 ---
+exclude: false
 layout: post
 title: "The God Project"
 tags:
