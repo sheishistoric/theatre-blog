@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Chef & Robot"
+title: "Legally Blonde"
 tags:
-- SoLow Fest
-- Asian Arts Initiative
-- Play
-- Reading
+- Walnut Theatre
+- Musical
 ---
 > forthcoming
 

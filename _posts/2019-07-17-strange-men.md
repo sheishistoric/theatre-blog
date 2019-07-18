@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Chef & Robot"
+title: "Strange Men"
 tags:
-- SoLow Fest
-- Asian Arts Initiative
+- PlayPenn
 - Play
 - Reading
+- Proscenium Theatre
+- The Drake
 ---
 > forthcoming
 

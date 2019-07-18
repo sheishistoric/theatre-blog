@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Chef & Robot"
+title: "Kimmel Center Artist Residency"
 tags:
-- SoLow Fest
-- Asian Arts Initiative
-- Play
+- Kimmel Center
 - Reading
 ---
 > forthcoming

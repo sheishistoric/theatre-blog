@@ -5,6 +5,7 @@ tags:
 - EgoPo Classic Theater
 - Theatre in the X
 - Latvian Society
+- Play
 ---
 
 YES for the set! The recreation of the mineshaft as the audience walked up to the theatre was A+.

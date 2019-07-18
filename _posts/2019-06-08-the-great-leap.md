@@ -3,8 +3,9 @@ layout: post
 title: "The Great Leap"
 tags:
 - InterAct Theatre Company
-- Proscenium Theatre at the Drake
+- Proscenium Theatre
 - The Drake
+- Play
 ---
 > “You see yourself there. I’ve been to China. I didn’t.”
 

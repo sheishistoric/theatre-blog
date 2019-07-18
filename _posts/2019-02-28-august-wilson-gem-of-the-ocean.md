@@ -6,6 +6,7 @@ tags:
 - F. Otto Haas Stage
 - August Wilson
 - Theatre in the X
+- Play
 ---
 (written months later)
 A M A Z I N G.

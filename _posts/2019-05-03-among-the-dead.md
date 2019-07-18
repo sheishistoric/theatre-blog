@@ -5,6 +5,7 @@ title: "Among the Dead"
 tags:
 - Hansol Jung
 - Theatre Exile
+- Play
 ---
 Among the Dead is a dark comedy about a family broken apart by betrayed promises, and finding each other again through SPAM, journals, and Jesus. Mostly Jesus.
 

@@ -7,6 +7,7 @@ tags:
 - Off-Broadway
 - Laura Pels Theatre
 - Stephen Sondheim
+- Musical
 ---
 (written months later)
 - I didn't love the set at first, but after hearing the cast explain it I did appreciate it.

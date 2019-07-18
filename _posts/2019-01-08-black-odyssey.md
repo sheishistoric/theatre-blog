@@ -4,6 +4,7 @@ layout: post
 title: "Black Odyssey"
 tags:
 - Trinity Repertory Company
+- Play
 ---
 (written months later)
 - I stan for Joe Wilson Jr. Really going to miss seeing him in things.

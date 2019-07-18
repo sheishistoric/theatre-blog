@@ -5,6 +5,7 @@ title: "Equinox New Student Play Festival"
 tags:
 - University of the Arts
 - Philly Theatre Week
+- Play
 ---
 (written months later)
 Student plays are so weird, I love them.
