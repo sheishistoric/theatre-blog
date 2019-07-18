@@ -5,6 +5,6 @@ tags:
 - Almanac Dance Circus Theatre
 - Funicular Station
 ---
-> forthcoming 
+> "Am I close?" 
 
 ## (a lot of) Stray Observations:

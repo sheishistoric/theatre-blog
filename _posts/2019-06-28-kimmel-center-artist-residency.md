@@ -5,6 +5,6 @@ tags:
 - Kimmel Center
 - Reading
 ---
-> forthcoming
+> "It's a WIP! That means work in progress!"
 
 ## (a lot of) Stray Observations:

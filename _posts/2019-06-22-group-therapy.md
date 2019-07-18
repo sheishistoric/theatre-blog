@@ -7,6 +7,6 @@ tags:
 - Plays & Players Theatre
 - Play
 ---
-> forthcoming
+> "Welcome to group therapy."
 
 ## (a lot of) Stray Observations:
