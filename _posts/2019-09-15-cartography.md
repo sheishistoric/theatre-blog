@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "Slave Play"
+title: "Cartography"
 tags:
-- Play
-- Broadway
-- Golden Theatre
-- The Drake
+- Philadelphia Fringe Festival
 ---
 > forthcoming
 

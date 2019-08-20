@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Slave Play"
+title: "Philly Asian Histories: The Living Museum"
 tags:
-- Play
-- Broadway
-- Golden Theatre
-- The Drake
+- Performance
+- Asian Arts Initiative
+- Philly Asian Performing Artists
 ---
 > forthcoming
 
