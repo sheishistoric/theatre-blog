@@ -6,7 +6,11 @@ permalink: /about/
 ---
 ## Me
 
-I see a lot of theatre, read a lot of plays, and sometimes I write about it. I want to direct an amazing show someday, mostly writing one-minute shows for now. I'm currently based in Philadelphia, though my heart goes out to the Providence's theatre scene and I make it up to NYC when I can.
+I see a lot of theatre, read a lot of plays, and sometimes I write about it. I'm keeping track of all the shows I see in 2019.
+
+I'm currently based in Philadelphia, though my heart goes out to the Providence's theatre scene and I make it up to NYC when I can.
+
+You can read my professional background at [emilyesten.com](https://emilyesten.com)
 
 ## The Title
 "something more than real" is a lyric from "Passing Phase" in **Passing Strange** by Stew. IDK, I might change it.
@@ -21,6 +25,4 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
-
 [jekyll-organization]: https://github.com/jekyll
