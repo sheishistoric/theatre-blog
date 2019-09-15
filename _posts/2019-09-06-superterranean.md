@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Subterranean"
+title: "Superterranean"
 tags:
 - Philadelphia Fringe Festival
 - Pig Iron Theatre Company
