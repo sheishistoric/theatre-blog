@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "A Manayunk Mystery Tour"
+title: "The Sound Inside"
 tags:
-- Manayunk Theatre Company
+- Play
+- Broadway
+- Studio 54
 ---
 > forthcoming
 

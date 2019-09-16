@@ -5,7 +5,6 @@ tags:
 - Play
 - Broadway
 - Golden Theatre
-- The Drake
 ---
 > forthcoming
 
